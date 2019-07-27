@@ -6,10 +6,8 @@
 For linux follow:
 https://dev.mysql.com/doc/refman/8.0/en/linux-installation-yum-repo.html
 
-### Create new database for mysql
-
-
-### Clone project from git
+### Create new database for mysql WITH NAME: 
+`fin_plan_3_0`
 
 ### Install php
 `yum install epel-release yum-utils`
